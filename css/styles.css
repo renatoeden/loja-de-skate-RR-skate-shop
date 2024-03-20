@@ -1,2 +1,18 @@
 #cor {background-color: rgb(222, 224, 224);}
-.card img {width: 315px; height: 315px;}
+.card img {
+    width: 315px;
+    height: 315px;
+    border: 1px solid red;
+}
+section, footer {color: black;  }
+
+.esquerda,{display: flex;
+flex-wrap: wrap; justify-self: start;
+}
+.centro {
+    display: flex; 
+    justify-content: space-around;
+    
+ }
+
+.direita {display: flex; flex-wrap: ; justify-content: end;}
