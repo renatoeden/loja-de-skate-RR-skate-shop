@@ -12,7 +12,9 @@ flex-wrap: wrap; justify-self: start;
 .centro {
     display: flex; 
     justify-content: space-around;
-    
- }
+    }
 
 .direita {display: flex; flex-wrap: ; justify-content: end;}
+
+body {background-color: aquamarine;}
+
